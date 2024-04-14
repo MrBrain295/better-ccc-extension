@@ -6,7 +6,7 @@ on:
       - gh-action
   pull_request:
     branches:
-      - main
+      - gh-action
 
 jobs:
   build:
