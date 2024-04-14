@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "tsc --build",
+    "build": "tsc --project tsconfig.",
     "dev": "tsc --watch"
   },
   "devDependencies": {
